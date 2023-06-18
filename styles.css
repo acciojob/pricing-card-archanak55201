@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
-a{
+button{
 	padding:10px 16px;
 	background-color:red;
 	color:white;
+border:none;
+
 }
 div{
 	width:60vm;
